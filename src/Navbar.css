@@ -1,0 +1,24 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0;
+    background-color: rgb(109, 109, 109);
+    overflow: hidden;
+}
+.container h3,p{
+    margin: 30px 50px 30px 50px;
+    display: inline-block;
+    cursor: pointer;
+}
+.container a{
+    text-decoration: none;
+    color: black;
+}
+
+.content{
+    position: relative;
+    left: 150px;
+}
